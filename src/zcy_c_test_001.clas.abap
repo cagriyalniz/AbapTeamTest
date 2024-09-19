@@ -14,6 +14,7 @@ ENDCLASS.
 CLASS zcy_c_test_001 IMPLEMENTATION.
   METHOD if_oo_adt_classrun~main.
     out->write( 'first commit cyalniz' ).
+    out->write( 'second commit baksu' ).
   ENDMETHOD.
 
 ENDCLASS.
